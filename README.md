@@ -52,4 +52,29 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 
 
-## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+## IMAGE 
+
+
+<img width="1176" height="367" alt="Screenshot 2025-10-21 224858" src="https://github.com/user-attachments/assets/d75f486b-3c57-413d-9486-f9ca9b4f0f8e" />
+
+
+<img width="997" height="360" alt="Screenshot 2025-10-21 224902" src="https://github.com/user-attachments/assets/47f539ac-f9ab-4cb7-8dd0-6f23196c7979" />
+
+
+<img width="1067" height="665" alt="Screenshot 2025-10-21 224910" src="https://github.com/user-attachments/assets/710c7513-0980-4d29-8a99-50001c503224" />
+
+
+<img width="925" height="624" alt="Screenshot 2025-10-21 224920" src="https://github.com/user-attachments/assets/29989c87-7d6f-4d76-a853-c1c440089d46" />
+
+
+<img width="1091" height="659" alt="Screenshot 2025-10-21 224936" src="https://github.com/user-attachments/assets/0157adbb-6318-4b37-8eba-41809ec3c9cf" />
+
+
+<img width="984" height="647" alt="Screenshot 2025-10-21 225013" src="https://github.com/user-attachments/assets/3b437eb3-f303-4528-bfe0-0a922a277a56" />
+
+<img width="1127" height="720" alt="Screenshot 2025-10-21 225025" src="https://github.com/user-attachments/assets/a430a59f-65f7-4cc2-af6d-01f39afb0175" />
+
+<img width="1088" height="682" alt="Screenshot 2025-10-21 225033" src="https://github.com/user-attachments/assets/233079d9-a322-48df-860e-3c9ae84c6f18" />
+
+
+<img width="1051" height="518" alt="Screenshot 2025-10-21 225044" src="https://github.com/user-attachments/assets/4b669e3f-8483-48d1-ac0f-e6a5c33283eb" />
